@@ -1,0 +1,6 @@
+
+
+
+flags=eLightFlags.Dirty
+
+

@@ -1,0 +1,16 @@
+event_inherited()
+Pausedimagespeed = 1 ; 
+image_index = 0; 
+
+pressed = false;
+require="Self Immolation"
+image_xscale=0.875
+image_yscale=0.875
+
+
+desc="Rush"
+
+left=id
+down=id
+up=g95
+right=g92

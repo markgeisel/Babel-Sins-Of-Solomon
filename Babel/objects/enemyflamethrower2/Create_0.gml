@@ -1,0 +1,16 @@
+enemyForceTouch=25;
+enemyDamageTouch=0.5;
+Health = 1 
+float = 1
+z = 3;
+zSpeed = 0;
+grv = 2;
+depth=-150
+counter=0
+explode=0
+	dirgoal=0
+	dir=270
+	Pausedimagespeed=0
+	spd1=1
+	spd=1
+	directionprevious=0
