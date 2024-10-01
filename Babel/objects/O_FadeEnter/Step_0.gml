@@ -15,7 +15,7 @@ progress-=fadespeed
 
 
 if progress=0{
-if  !instance_exists(O_Text) {
+if  !instance_exists(OText) {
 	with (OGoblin) {state=PlayerstateFree;}
 
 

@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ParentsBlocksEtc",
-    "path": "folders/Objects/Managers/ParentsBlocksEtc.yy",
+    "name": "Collectables",
+    "path": "folders/Objects/Collectables.yy",
   },
   "parentObjectId": {
     "name": "P_entity",

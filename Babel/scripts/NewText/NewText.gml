@@ -9,7 +9,7 @@ function NewText() {
 
 	var _obj ;
 
-	if (instance_exists(O_Text)) _obj = O_Textque; else _obj = O_Text;
+	if (instance_exists(OText)) _obj = OTextque; else _obj = OText;
 	with (instance_create_layer(0,0,"Instances", _obj))
 	{ 
 		message= argument[0];

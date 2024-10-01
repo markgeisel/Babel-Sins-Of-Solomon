@@ -25,7 +25,7 @@ if (percent<= 0)&&change>=40
 {OGoblin.x=global.targetx OGoblin.y=global.targety
 
 
-if  !instance_exists(O_Text) {
+if  !instance_exists(OText) {
 	with (OGoblin) {state=PlayerstateFree;}
 
 

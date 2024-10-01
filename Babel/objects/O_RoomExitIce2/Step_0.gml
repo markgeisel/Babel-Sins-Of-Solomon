@@ -22,7 +22,7 @@ targetRoom=NiddHogg
 
 
 }
-if global.roomstage=2{
+if global.roomstage=3{
 targetRoom=Molocharena
 
 

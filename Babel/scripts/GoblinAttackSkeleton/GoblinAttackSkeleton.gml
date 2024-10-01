@@ -16,7 +16,7 @@ enemyAttackRadius=enemyAttackRadiusOg
 		distanceTotal = 10000000;
 		distanceRemaining = distanceTotal;
 	peakHeight = min(max(0,distanceTotal - 64)*0.2,150);
-			spd = 1.4}	
+			spd = 1.3}	
 		
 		stateTarget= EnemySTATE.CHASE;
 

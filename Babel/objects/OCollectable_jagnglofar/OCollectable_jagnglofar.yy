@@ -14,8 +14,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"P_Collect","path":"objects/P_Collect/P_Collect.yy",},"propertyId":{"name":"image_index","path":"objects/P_Collect/P_Collect.yy",},"value":"28",},
   ],
   "parent": {
-    "name": "ParentsBlocksEtc",
-    "path": "folders/Objects/Managers/ParentsBlocksEtc.yy",
+    "name": "Collectables",
+    "path": "folders/Objects/Collectables.yy",
   },
   "parentObjectId": {
     "name": "P_Collect",

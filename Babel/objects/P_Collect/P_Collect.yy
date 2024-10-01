@@ -16,8 +16,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"P_entity","path":"objects/P_entity/P_entity.yy",},"propertyId":{"name":"entityActivateScript","path":"objects/P_entity/P_entity.yy",},"value":"BuyItem",},
   ],
   "parent": {
-    "name": "ParentsBlocksEtc",
-    "path": "folders/Objects/Managers/ParentsBlocksEtc.yy",
+    "name": "Collectables",
+    "path": "folders/Objects/Collectables.yy",
   },
   "parentObjectId": {
     "name": "P_entity",

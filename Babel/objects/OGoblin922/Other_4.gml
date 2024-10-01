@@ -4,7 +4,7 @@
 
 
 if room=Test2{
-if  !instance_exists(O_Text) {
+if  !instance_exists(OText) {
 	with (OGoblin) {state=PlayerstateFree;}
 
 

@@ -12,7 +12,7 @@ RoomTransition1(targetx,targety)
 if (percent<= 0) 
 {
 	
-if  !instance_exists(O_Text) {
+if  !instance_exists(OText) {
 	with (OGoblin) {state=PlayerstateFree;}
 
 
